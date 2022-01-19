@@ -1,0 +1,19 @@
+
+[7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+Kökü 5 tir. 
+7 kökten büyük olduğu için kökün sağında yer alır. 
+1 kökten küçük olduğu için kökün solunda yer alır. 
+8 kökten ve 7 den büyük olduğu için 7 nin sağında yer alır. 
+3 kökten küçük ve 1 den büyük olduğu için 1 in sağında yer alır. 
+6 kökten büyük ve 7 den küçük olduğu için 7 nin solunda yer alır. 
+0 kökten ve 1 den küçük olduğu için 1 in solunda yer alır. 
+9 kökten, 7 den ve 8 den büyük olduğu için 8 in sağında yer alır.
+4 kökten küçük 1 den ve 3 ten ise büyük olduğu için 3 ün sağında yer alır. 
+2 kökten küçük, 1 den büyük ve 3 ten küçük olduğu için 3 ün solunda yer alır.
+                    5
+                  /   \
+                1       7
+               / \     / \
+              0   3   6   8
+                 / \       \
+                2   4       9 
